@@ -34,3 +34,13 @@ body {
   border-radius: 3px;
   font-weight: bolder;*/
 }
+
+.customers-list-item .field {
+  width: 160px;
+  margin: 1px;
+  padding: 4px;
+  /*overflow: hidden;*/
+  display: inline-block;
+  /*line-height: 40px;*/
+  background: #EEE;
+}
